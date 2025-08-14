@@ -10,7 +10,7 @@ I’m transitioning into cybersecurity, bringing a passion for problem-solving a
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/abdoucama10/threat-hunting-scenario-tor)**
 
 <hr/>
 
